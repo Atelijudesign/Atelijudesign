@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Andrés Gallo Parra</h1>
 <h3 align="center">Full Stack bootcamp student - / html /css / javascript /</h3>
@@ -34,5 +33,6 @@
  
 ## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
 ![Metrics](https://metrics.lecoq.io/atelijudesign?template=classic&isocalendar=1&introduction=1&languages=1&lines=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=America%2FSantiago)
+
 
 
