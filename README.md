@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm Andrés Gallo Parra</h1>
-<h3 align="center">Full Stack bootcamp student - / html /css / javascript /</h3>
+<h1 align="center">Hi , I'm Andrés Gallo Parra</h1>
+<h3 align="center">Full Stack bootcamp student in Desafio Latam - / html /css / javascript /</h3>
  <div>
   <a href="https://github.com/Atelijudesign">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=atelijudesign&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
