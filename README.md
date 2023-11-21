@@ -7,19 +7,19 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atelijudesign&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-- 🔭 I’m currently working on [Portafolio](https://attelijudesign.com/)
+-I’m currently working on [Portafolio]([https://attelijudesign.com/](https://atelijudesign.github.io))
 
-- 🌱 I’m currently learning **Full Stack Javascript**
+-I’m currently learning **Full Stack Javascript**
 
-- 👨‍💻 All of my projects are available at [https://attelijudesign.com/](https://attelijudesign.com/)
+-All of my projects are available at [[https://attelijudesign.com/](https://attelijudesign.com/](https://atelijudesign.github.io))
 
-- 💬 Ask me about **Apasionado por la programacion, aprendiendo Javascript.**
+-Ask me about **Apasionado por la programacion, aprendiendo Javascript.**
 
-- 📫 How to reach me **agallo@attelijudesgign.com**
+-📫 How to reach me **agallo@attelijudesgign.com**
 
-- 📄 Know about my experiences [Full Stack bootcamp student.](Full Stack bootcamp student.)
+-Know about my experiences [Full Stack bootcamp student.](Full Stack bootcamp student.)
 
-- ⚡ Fun fact **I love my family.**
+-⚡ Fun fact **I love my family.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
