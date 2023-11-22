@@ -7,11 +7,11 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atelijudesign&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
--I’m currently working on [Portafolio]([https://attelijudesign.com/](https://atelijudesign.github.io))
+-I’m currently working on [Portafolio](https://attelijudesign.com/)
 
 -I’m currently learning **Full Stack Javascript**
 
--All of my projects are available at [[https://attelijudesign.com/](https://attelijudesign.com/](https://atelijudesign.github.io))
+-All of my projects are available at [Portafolio](https://attelijudesign.com/)
 
 -Ask me about **Apasionado por la programacion, aprendiendo Javascript.**
 
